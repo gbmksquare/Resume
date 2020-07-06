@@ -1,11 +1,5 @@
 # BumMo Koo's Resumé
 
-_Last updated on July 7, 2020_
-
-[Available in Korean / 한국어 버전](./README-KR.md)
-
-
-
 I have 3 years of experience in Objective-C and 6 years of experience in Swift language, and made apps on most of Apple's platform, such as iOS, iPadOS, watchOS, and macOS. I've been developing iOS apps since 2012 when I was still a student, and have worked on multiple startups and big companies ever since.
 
 
@@ -14,7 +8,7 @@ Having lived in Dalian, China for 9 years and currently living in Seoul, Korea, 
 
 
 
-I arduously follow Apple news and lastest Apple's latest technology. I like experimenting with new information, and share what I learned and experienced and have presented in 9 iOS conferences. I am always inspired by the elegance of user interface and delicacy of API designs by Apple.
+I arduously follow Apple news and lastest Apple technology. I like experimenting with new information, and share what I learned and experienced and have presented in 9 iOS conferences. I am always inspired by the elegance of user interface and delicacy of API designs by Apple.
 
 
 
@@ -28,14 +22,16 @@ I've been chosen as one of the WWDC20 Swift Student Challenge winner by making a
 
 ![Project screenshot, 3 iPad](./Images/Yut.png)
 
-
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Naver Webtoon
 
 iOS Developer Intern | _2019.01 - 2019.02_
 
 * Participated in UI and feature overhaul project for VOD service _Series On_ in a 7 member team.
-* Discovered and fixed bugs, and made performance improvments on old codebase.
+* Discovered and fixed bugs, and made performance improvements on old codebase.
 
 
 
@@ -86,7 +82,7 @@ _Here are some of the projects I worked on:_
 
 ### Others
 
-* __Microsoft Student Partners__, Avangelist on Microsoft Cognitive Service, _2016.09 - 2017.07_
+* __Microsoft Student Partners__, Evangelist on Microsoft Cognitive Service, _2016.09 - 2017.07_
 
 
 
@@ -96,11 +92,11 @@ _⚠️ Not all project I worked on are listed._
 
 __kuStudy__
 
-A simple utility app showing availablity of study area in Korea University.
+A simple utility app showing availability of study area in Korea University.
 
 _2014 - present_, [App Store](https://apps.apple.com/app/id925255895), [Open Sourced on GitHub](https://github.com/gbmksquare/kuStudy)
 
-This app is an acculmulation of what I've learned thorughout my career. Supporting iOS, Today widget, iPadOS, and watchOS, it is packed with features such as accessibility, hardware keyboard shortcuts, trackpad support, and gone through multiple overhaul from Objective-C to all versions of Swift, and from CocoaPods to Swift Package Manager for dependency management.
+This app is an accumulation of what I've learned throughout my career. Supporting iOS, Today widget, iPadOS, and watchOS, it is packed with features such as accessibility, hardware keyboard shortcuts, trackpad support, and gone through multiple overhaul from Objective-C to all versions of Swift, and from CocoaPods to Swift Package Manager for dependency management.
 
 ![Project screenshots, 1 iPad, 1 Apple Watch, 3 iPhone](./Images/kuStudy.png)
 
@@ -164,7 +160,7 @@ __Small Things in iOS Development__ | let us: Go!, _2018.03.10_
 
 
 
-__Improving Accessibiltiy of an iOS App__ | let us: Go!, _2017.11.04_
+__Improving Accessibility of an iOS App__ | let us: Go!, _2017.11.04_
 
 >  Accessibility is always very important. Let's earn to improve the accessibility of iOS application.
 >
@@ -172,7 +168,7 @@ __Improving Accessibiltiy of an iOS App__ | let us: Go!, _2017.11.04_
 
 
 
-__Creating an Universal Windows Platform App from iOS Source Code__ | let us: Go!, _2017.06.24_
+__Creating a Universal Windows Platform App from iOS Source Code__ | let us: Go!, _2017.06.24_
 
 > Using Microsoft's WinObjC project, we can make Universal Windows Platform app from iOS source code.
 >
@@ -207,7 +203,7 @@ __Making Screenshots for Release using Fastlane Snapshot__ | iOS Tech Talk, _201
 
 ## Other Interests & Activities
 
-* I like adventruing into beautiful landscapes and take photos in my spare time.
+* I like adventuring into beautiful landscapes and take photos in my spare time.
 * Recently, I am learning to model and render things in Blender for fun.
 * I know how to use a 3D printer and a laser cutter, and once 3D-printed a full set of T-rex skeletons.
 * I like watching movies, sometimes play Minecraft and Starcraft II, and buy airplane models.
