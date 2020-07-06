@@ -6,8 +6,6 @@ _Last updated on July 7, 2020_
 
 
 
-<!--![Profiel image of BumMo Koo](./Images/Profile.JPG)-->
-
 I have 3 years of experience in Objective-C and 6 years of experience in Swift language, and made apps on most of Apple's platform, such as iOS, iPadOS, watchOS, and macOS. I've been developing iOS apps since 2012 when I was still a student, and have worked on multiple startups and big companies ever since.
 
 
@@ -17,12 +15,6 @@ Having lived in Dalian, China for 9 years and currently living in Seoul, Korea, 
 
 
 I arduously follow Apple news and lastest Apple's latest technology. I like experimenting with new information, and share what I learned and experienced and have presented in 9 iOS conferences. I am always inspired by the elegance of user interface and delicacy of API designs by Apple.
-
-
-
-### Contents
-
-__[Experience](#Experience)__   |   __[Personal Projects](#Personal-Projects)__   |   __[Speaking](#Speaking)__   |   __[Other Interests & Activities](#Other-Interests--Activities)__   |   __[Contact](#Contact)__
 
 
 
@@ -128,7 +120,9 @@ __More__
 * __Smart Express Terminal__, an AR app for Korea University School of Art & Design Graduation Exhibition using `RealityKit` and Reality Composer, _2019_
 * [BumMo's Apps on App Store](https://apps.apple.com/developer/bummo-koo/id918897632)
 
-
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Speaking
 
@@ -174,7 +168,7 @@ __Improving Accessibiltiy of an iOS App__ | let us: Go!, _2017.11.04_
 
 >  Accessibility is always very important. Let's earn to improve the accessibility of iOS application.
 >
-> [Conference](https://onoffmix.com/event/114320) | [Conference Retrospect](https://iosdevkor.github.io/let_us_go_2017_fall_review/) | [Video](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
+>  [Conference](https://onoffmix.com/event/114320) | [Conference Retrospect](https://iosdevkor.github.io/let_us_go_2017_fall_review/) | [Video](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
 
 
 
@@ -190,7 +184,7 @@ __Make Full Use of Swift Playground__ | Swift Korea Meetup, _2017.04.28_
 
 > Make the most out of Apple's new iPad Playground app.
 >
->  [Conference](http://onoffmix.com/event/96420) | [Conference](https://swiftkorea.github.io/meetup/) | ~~[Video](https://news.realm.io/kr/news/swift-playground/)~~
+> [Conference](http://onoffmix.com/event/96420) | [Conference](https://swiftkorea.github.io/meetup/) | ~~[Video](https://news.realm.io/kr/news/swift-playground/)~~
 
 
 
@@ -207,7 +201,7 @@ __Making Screenshots for Release using Fastlane Snapshot__ | iOS Tech Talk, _201
 
 > Learn how to automate taking screenshots of apps for iTunes Connect.
 >
->  [Conference](http://onoffmix.com/event/89695) | ~~[Video](https://news.realm.io/kr/news/automate-ios-screenshots-with-fastlane-snapshot/)~~
+> [Conference](http://onoffmix.com/event/89695) | ~~[Video](https://news.realm.io/kr/news/automate-ios-screenshots-with-fastlane-snapshot/)~~
 
 
 
@@ -222,29 +216,8 @@ __Making Screenshots for Release using Fastlane Snapshot__ | iOS Tech Talk, _201
 
 
 ## Contact
-
-You can find me at:
+__Email__: ksquareatm@gmail.com
 
 __GitHub__: https://github.com/gbmksquare
 
 __LinkedIn__: https://www.linkedin.com/in/gbmksquare
-
-
-
-Feel free to contact me via:
-
-__Email__: ksquareatm@gmail.com
-
-__Twitter__: [https://twitter.com/gbmKSquare](https://twitter.com/gbmKSquare)
-
-
-
-You can also find me at:
-
-__Facebook__: [https://www.facebook.com/gbmksquare](https://www.facebook.com/gbmksquare)
-
-__Instagram__: [https://www.instagram.com/gbmksquare](https://www.instagram.com/gbmksquare)
-
-
-
-<!-- You discovered a hidden message! I appreciate your interest and effort. 👻-->
