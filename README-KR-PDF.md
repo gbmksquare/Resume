@@ -2,37 +2,29 @@
 
 
 
-저는 중국 대련에서 9년을 살았고 현재 서울에 거주 중입니다. 2012년 학생 시절부터 iOS 개발을 시작했고 지금까지 iOS 개발자로서 여러 스타트업과 기업에서 일을 했습니다. 정교하고 아름다운 것을 만드는 것을 좋아하며 iOS 관련 모든 것으로부터 영감을 받습니다. Apple 관련 뉴스를 항상 주의깊게 팔로우 하고 있으며 새로운 것을 배우면 공유하는 것을 좋아합니다.
+저는 Objective-C로 3년, Swift로 6년간 iOS, iPadOS, watchOS, macOS 등 여러 Apple의 플랫폼에서 개발을 해왔습니다. 2012년 학생일 때부터 iOS 개발을 시작해 지금까지 여러 회사와 스타트업에서 경험을 쌓았습니다.
+
+중국 대련에서 9년을 살고 국제학교를 3년 다녀 한국어, 영어, 중국어를 모두 편하게 사용합니다.
+
+저는 각종 애플 뉴스와 최신 애플 기술을 확인하는 것을 즐깁니다. 얻은 정보로 새로운 것을 만들어 그 경험을 공유하는 것을 좋아해 9개의 iOS 개발자 컨퍼런스에서 발표를 진행했습니다. 저는 항상 Apple이 제공하는 유려한 사용자 인터페이스와 사려 깊은 API 디자인에 영감을 얻습니다.
 
 
 
-## 연락처
+## 경력 및 경험
+### Apple WWDC20 Swift Student Challenge 선정
 
-__이메일__: ksquareatm@gmail.com
+윷놀이, _2020_, [GitHub](https://github.com/gbmksquare/WWDC-2020)
 
-__GitHub__: https://github.com/gbmksquare
+WWDC20 Swift Student Challenge에 제출 및 선정된 Swift Playground로, 한국의 전통 놀이인 윷놀이를 소개합니다. 처음 써보는 `SceneKit`을 사용해 일주일 동안 빠르게 만들어졌습니다. 3D 에셋도 Blender를 사용해 직접 제작했습니다.
 
-__LinkedIn__: https://www.linkedin.com/in/gbmksquare
-
-
-
-## 스킬
-
-한국어, 영어와 중국어를 합니다.
-
-Objective-C로 3년, Swift로 6년간 개발을 했으며 iOS, iPadOS, watchOS, macOS 등 여러 Apple의 플랫폼에서 개발을 했습니다.
-
-포토샵, 일러스트레이터, 라이트룸 등 2D 편집 소프트웨어를 다룰줄 알며 Final Cut Pro, Blender, SketchUp도 사용합니다.
-
-
-
-## 경험
+![프로젝트 스크린샷, 3개의 아이패드](/Users/gbm/Developer/Projects/Personal/Resume/Images/Yut.png)
 
 ### 네이버 웹툰
 
 iOS 개발자 (인턴) | _2019.01 - 2019.02_
 
-두달간 인턴으로 일하면서 영화와 드라마를 구매하거나 대여할 수 있는 시리즈온 앱의 개편 작업에 참여했습니다. 7인 팀에서 Swift 4를 사용해 다양한 뷰를 설계 및 제작했고 이전 버전의 각종 버그를 수정했습니다.
+* 7인 팀에서 _시리즈온_ 앱 UI 및 기능 개편 프로젝트 참여.
+* 기존 코드베이스에서 버그 발견 및 수정, 성능 향상.
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -40,9 +32,16 @@ iOS 개발자 (인턴) | _2019.01 - 2019.02_
 
 ### VREX Lab
 
-iOS 개발자 | _2017.02 - 2017.12_
+iOS 개발자 | _2017.02 - 2017.12_ㅎ
 
-위치 기반 SNS iOS 앱인 Rush (글로벌 버전)과 Tiele (중국 버전)을 설계하고 제작하였으며 중국에 위치한 한국인 서버 개발자와 중국인 안드로이드 개발자와 원격으로 협업해 작업했습니다. Swift 3로 작업했으며 중국 앱의 특성상 현지화 및 API 구분을 해야했기에 Xcode 멀티스킴 및 타겟, Fastlane 자동 배포를 활용했으며 `CoreLocation`, APNS, Baidu Push, Google Places, Google Maps, Amap API 등 여러 SDK를 사용했습니다.
+* 위치 기반 SNS 앱 `Rush` (국제 버전) 및 `Tiele` (중국 버전) 개발.
+* 서버 및 클라이언트 개발자와 다중언어 환경에서 원격 작업.
+
+* 서버 및 클라이언트 개발자와 다중언어 환경에서 원격 작업.
+
+* 현지 및 국제 버전 배포를 위한 멀티 스킴, 멀티 타겟 개발 환경 구축.
+
+* Fastlane을 사용한 자동 빌드 및 배포 시스템 구축.
 
 
 
@@ -50,7 +49,8 @@ iOS 개발자 | _2017.02 - 2017.12_
 
 iOS 개발자 | _2014.04 - 2016.06_
 
-대체 복무로 근무하며 iOS 개발자로 일을 했으며 주로 SK Planet을 위한 내부 푸시 알림 SDK를 만들었습니다. APNS 및 내부용 API를 래핑하는 정적 Objective-C 프레임워크였으며 `NSOperationQueue`와 `NSNotification`으로 작업을 관리했습니다. 이외에 증명사진을 편집하는 `Self Shot` 앱과 투자용 앱인  `Yink 앱을 개발했습니다.
+* Objective-C 기반 SK Planet용 내부 푸시 알림 SDK 개발.
+* 증명사진 편집 앱 `Self Shot` 및 투자 앱  `Yink` 개발.
 
 
 
@@ -58,28 +58,34 @@ iOS 개발자 | _2014.04 - 2016.06_
 
 iOS 개발자 | _2013.01 - 2020.07_
 
-iOS 개발 프리랜서로 일하면서 간단한 `UIWebView` 또는 `WKWebView` 래퍼 앱부터 시작해 오디오, 영상, 3D, 그래프, 다양한 써드파티 SDK를 활용한 일상 생활용 앱과 리서치용 앱 등 다양한 프로젝트에 참여했습니다.
+iOS 개발 프리랜서로 일하면서 iOS, iPadOS 및 macOS 앱을 만들었으며 오디오, 비디오, 3D 에셋, 써드파티 SDK 등 다양한 기능을 구현했습니다. 다양한 프로젝트에 일하면서 레거시 코드베이스에 얽매이지 않고 여러 코딩 스타일과 API를 적용해볼 수 있었습니다.
 
-_상세 내용은 프로젝트 항목을 참고 해주세요._
+_작업한 일부 프로젝트 목록입니다._
 
-
-
-__기타__
-
-* __Apple WWDC20 Swift Student Challenge 선정__, 윷놀이, _2020_
-* __네이버 캠퍼스 핵데이 우수 참가자__, 증강현실 톺아보기 with ARKit, _2018_
-* __Microsoft Student Partners__, 에반젤리스트 (Microsoft Cognitive Service), _2016.09 - 2017.07_
-
-
-
-__교육__
-
-* __고려대학교__, 학사, 정보대학 컴퓨터학과, _2012 - 2020_
-* __고려대학교__, 학사, 디자인조형학부 산업정보디자인 (이중 전공), _2013 - 2019_
+* __Potentiostat__, 연구용 데이터 정리 및 그래프를 위한 내부 iPadOS 앱, _2019_
+* __Field Management System__, 기업용 앱 버그 수정 및 유지 보수, _2019_
+* __Real World__, 현실판 방 탈출 게임 iOS 앱, _2018_
+* __Mystery Trail__, 역시 현실판 방 탈출 게임 iOS 앱, _2018_
+* __Bahn__, 현실 속 미스터리를 해결하는 전시용 앱, _2018_
+* __LeapMotion Data Collector__, Leap Motion SDK를 사용해 손가락 움직임 데이터를 수집하는 내부 연규용 OS X 앱, _2016 - 2018_
+* __Qplace__, 맛집 큐레이션을 위한 `UIWebView` 래퍼 앱, _2013 - 2014_
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
+
+### 교육
+
+* __고려대학교__, 학사, 정보대학 컴퓨터학과, _2012 - 2020_
+* __고려대학교__, 학사, 디자인조형학부 산업정보디자인 (이중 전공), _2013 - 2019_
+
+
+### 기타
+
+* __네이버 캠퍼스 핵데이 우수 참가자__, 증강현실 톺아보기 with ARKit, _2018_
+* __Microsoft Student Partners__, 에반젤리스트 (Microsoft Cognitive Service), _2016.09 - 2017.07_
+
+
 
 ## 개인 프로젝트
 
@@ -87,33 +93,27 @@ _⚠️ 일부 프로젝트만 공개되어 있습니다._
 
 __kuStudy__
 
+고려대학교 열람실 현황 유틸리티 앱
+
 _2014 - 현재_, [App Store](https://apps.apple.com/app/id925255895), [GitHub](https://github.com/gbmksquare/kuStudy)
 
-고려대학교 열람실의 좌석을 보여주는 간단한 유틸리티 앱으로 저의 iOS 개발을 쭉 함께해온 앱입니다. Objective-C부터 시작해 모든 Swift 버전을 거쳤으며 iOS, 오늘 위젯, iPadOS, watchOS를 모두 지원합니다. 여러 손쉬운 사용 기능 및 하드웨어 키보드를 지원하며 최근에는 트랙패드 지원이 추가되었고 CocoaPods에서 Swift Package Manager로 이주했습니다.
+이 앱은 제 iOS 개발 경력을 함께 해온 앱으로 다양한 실험과 새로운 API 적용을 해본 앱입니다. iOS, iPadOS, wacthOS, 오늘 위젯을 지원할 뿐만 아니라 여러  여러 손쉬운 사용, 하드웨어 키보드 및 트랙패드 등을 지원하며 Objective-C부터 모든 버전의 Swift를 거쳤습니다. 최근에는 CocoapPods에서 Swift Package Manager로 이주하며 iOS 14의 새로운 API 도입 예정입니다.
 
 ![프로젝트 스크린샷, 1개의 아이패드, 1개의 애플워치, 3개의 아이폰](./Images/kuStudy.png)
 
-
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 __Let'Swift__
 
 _2019_, [App Store](https://apps.apple.com/app/id1282995254), [GitHub](https://github.com/cleanios/LetSwift)
 
-Let'Swift는 4명의 개발자의 합작입니다. 갓 나온 SwiftUI만을 사용해 만들어진 유니버설 앱이며 서울에서 열리는 Let'Swift 컨퍼런스를 위해 탄생했습니다.
+Let'Swift는 SwiftUI가 갓 출시했을 때 만들어진 합작품입니다. 참고 자료가 부족했던 시절 SwiftUI만을 사용해 삽질을 하며 만들어진 유니버설 앱이며 서울에서 열리는 Let'Swift 컨퍼런스를 위해 탄생했습니다.
 
 ![프로젝트 스크린샷, 4개의 아이폰](./Images/LetSwift.png)
 
-__윷놀이__
-
-_2020_, [GitHub](https://github.com/gbmksquare/WWDC-2020)
-
-WWDC20 Swift Student Challenge에 제출 및 선정된 Swift Playground로, 한국의 전통 놀이인 윷놀이를 소개합니다. 일주일간 처음 써보는 `SceneKit`을 주로 사용해 빠르게 만들어졌습니다. 3D 에셋도 직접 Blender을 사용해 제작 했습니다.
-
-![프로젝트 스크린샷, 3개의 아이패드](./Images/Yut.png)
-
-
-
-__More__
+__기타__
 
 * __Dice__, 첫 Apple Watch의 발매에 맞춰 만든 간단한 주사위 앱, _2015 - 현재_, [App Store](https://apps.apple.com/app/id989101771)
 * __Smart Express Terminal__,  `RealityKit`과 Reality Composer를 사용한 고려대학교 산업정보디자인 졸업전시를 위한 AR 앱, _2019_
@@ -121,71 +121,46 @@ __More__
 
 
 
-__Freelance Projects__
-
-* __Potentiostat__, 리서치용 데이터 정리 및 그래프를 위한 내부 iPadOS 앱, _2019_
-* __Field Management System__, 기업용 앱 버그 수정 및 유지 보수, _2019_
-* __Real World__, 현실판 방탈출 게임 iOS 앱, _2018_
-* __Mystery Trail__, 역시 현실판 방탈출 게임 iOS 앱, _2018_
-* __Bahn__, 현실속 미스터리를 해결하는 전시용 앱, _2018_
-* __LeapMotion Data Collector__, Leap Motion SDK를 사용해 손가락 움직임 데이터를 수집하는 내부 리서치용 OS X 앱, _2016 - 2018_
-* __Qplace__, 맛집 큐레이션을 위한 `UIWebView` 래퍼 앱, _2013 - 2014_
-
-
-
-## 오픈소스
-
-### 앱
-
-| Name      | Description                                                  | Link                                              |
-| --------- | ------------------------------------------------------------ | ------------------------------------------------- |
-| kuStudy   | 고려대학교 열람실 정보를 제공하는 앱으로 Objective-C부터 모든 Swift 버전을 거쳤으며 iOS, iPadOS, watchOS 플랫폼을 모두 지원합니다. | [GitHub](https://github.com/gbmksquare/kuStudy)   |
-| Let'Swift | Let'Swift 개발자 컨퍼런스를 위한 유니버설 앱으로 SwiftUI로만 만들어졌습니다. | [GitHub](https://github.com/cleanios/LetSwift)    |
-| Yut       | WWDC20 Swift Student Challenge 제출 및 선정작으로, 한국의 전통 놀이인 윷놀이를 소개합니다. | [GitHub](https://github.com/gbmksquare/WWDC-2020) |
-
 ## 발표
 
 _⚠️ 일부 링크는 웹사이트가 더 이상 존재하지 않을 수 있습니다._
 
-
+let us: Go!와 Swift Korea Meetup은 서울에서 개최되는 iOS 개발자 커뮤니티 컨퍼런스입니다._
 
 __스토리보드 없이 UI 만들기__ | let us: Go!, _2019.03.30_
 
 > Storyboard와 XIB을 사용했을 때와 코드만 사용해 UI을 만들 때의 경우를 비교해봅니다.
 >
-> [컨퍼런스 홈페이지](https://iosdevkor.github.io/let_us_go_2019_spring/) | [컨퍼런스 회고 페이지](https://iosdevkor.github.io/let_us_go_2019_spring_review/) | [영상](https://www.youtube.com/watch?v=-QWm9r4BzMI&feature=emb_title)
 
-
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 __단축어와 놀기__ | let us: Go!, _2018.10.20_
 
 > Apple의 새로운 단축어 앱을 활용해 다양한 것을 해봅니다.
 >
-> [컨퍼런스 홈페이지](https://iosdevkor.github.io/let_us_go_2018_fall/) | [컨퍼런스 회고 페이지](https://iosdevkor.github.io/let_us_go_2018_fall_review/) | [영상](https://www.youtube.com/watch?v=yEH6gwWJ8fY&feature=emb_title)
 
 
 
-__미리보는 Marzipan__ | let us: Go!, _2018.07.21_
+__미리 보는 Marzipan__ | let us: Go!, _2018.07.21_
 
 > Apple의 iOS 앱을 macOS로 포팅하는 Catalyst 프로젝트로 이어지는 Marzipan에 대해 알아봅니다.
 >
-> [컨퍼런스 홈페이지](https://iosdevkor.github.io/let_us_go_2018_summer/) | [컨퍼런스 회고 페이지](https://iosdevkor.github.io/let_us_go_2018_summer_review/) | [영상](https://www.youtube.com/watch?v=egZ_kPa7MzE)
 
 
 
 __Haptic Feedback으로 시작하는 iOS 개발의 이모저모__ | let us: Go!, _2018.03.10_
 
-> 쉽게 지나칠 수 있지만 사용자 경험에 기여하는 작은 디테일들을 알아봅니다.
+> 쉽게 지나칠 수 있지만 사용자 경험에 기여하는 작은 디테일을 알아봅니다.
 >
-> [컨퍼런스 홈페이지](https://festa.io/events/8) | [컨퍼런스 회고 페이지](https://iosdevkor.github.io/let_us_go_2018_spring_review/) | [영상](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=emb_title)
 
 
 
 __iOS 앱의 접근성 향상하기__ | let us: Go!, _2017.11.04_
 
->  iOS 앱의 접근성을 향상시킬 수 있는 방법을 알아봅니다.
+>  iOS 앱의 접근성을 향상할 수 있는 방법을 알아봅니다.
 >
-> [컨퍼런스 홈페이지](https://onoffmix.com/event/114320) | [컨퍼런스 회고 페이지](https://iosdevkor.github.io/let_us_go_2017_fall_review/) | [영상](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
 
 
 
@@ -193,7 +168,6 @@ __iOS 소스 코드로 UWP(유니버설 윈도우 플랫폼) 앱 만들기__ | l
 
 > Microsoft의 WinObjC 프로젝트를 사용해 iOS 소스코드로 Universal Windows Platform 앱을 만들어봅니다.
 >
-> [컨퍼런스 홈페이지](https://iosdevkor.github.io/let_us_go_2017_summer/) | [컨퍼런스 회고 페이지](https://iosdevkor.github.io/let_us_go_2017_summer_review) | ~~[영상](https://news.realm.io/kr/news/ios-uwp-app/)~~
 
 
 
@@ -201,7 +175,6 @@ __Playground 100% 활용하기__ | Swift Korea Meetup, _2017.04.28_
 
 > Apple의 새로운 iPad Playground 앱을 활용해봅니다.
 >
->  [컨퍼런스 홈페이지](http://onoffmix.com/event/96420) | [컨퍼런스 홈페이지](https://swiftkorea.github.io/meetup/) | ~~[영상](https://news.realm.io/kr/news/swift-playground/)~~
 
 
 
@@ -209,7 +182,6 @@ __Introduction to Fastlane__ | let us: Go!, _2017.04.01_
 
 > Fastlane 도구를 사용해 iOS 앱의 배포를 자동화 하는 법을 알아봅니다..
 >
-> [컨퍼런스 홈페이지](https://iosdevkor.github.io/let_us_go_2017_spring/) | [컨퍼런스 회고 페이지](https://iosdevkor.github.io/let_us_go_2017_spring_review/) | ~~[영상](https://news.realm.io/kr/news/ios-fastlane-demos)~~
 
 
 
@@ -218,6 +190,37 @@ __Fastlane Snapshot으로 배포용 스크린샷 자동으로 만들기__ | iOS 
 
 > iTunes Connect에 올리는 스크린샷을 자동으로 캡쳐하는 방법을 알아봅니다.
 >
->  [컨퍼런스 홈페이지](http://onoffmix.com/event/89695) | ~~[영상](https://news.realm.io/kr/news/automate-ios-screenshots-with-fastlane-snapshot/)~~
 
 
+
+## 취미 및 활동
+
+* 여가 시간에 예쁜 자연경관을 사진으로 담는 게 취미입니다.
+* 최근에는 Blender로 모델링 및 렌더링하는 법을 배우고 있습니다.
+* 레이저 커터와 3D 프린터를 쓸 줄 알고 티렉스 뼈대를 3D 프린팅해본 경험이 있습니다.
+* 영화를 보고, 가끔 마인크래프트나 스타 2를 하는 것을 좋아하고 비행기 모형을 수집합니다.
+* 포토샵, 일러스트레이터, 라이트룸 등 2D 편집 프로그램을 다룰 줄 알고 Final Cut Pro, Blender, SketchUp도 사용합니다.
+
+
+
+## 연락처
+
+__Email__: ksquareatm@gmail.com
+
+
+
+__GitHub__: https://github.com/gbmksquare
+
+__LinkedIn__: https://www.linkedin.com/in/gbmksquare
+
+
+
+__Twitter__: [https://twitter.com/gbmKSquare](https://twitter.com/gbmKSquare)
+
+__Facebook__: [https://www.facebook.com/gbmksquare](https://www.facebook.com/gbmksquare)
+
+__Instagram__: [https://www.instagram.com/gbmksquare](
+
+
+
+<!-- 비밀 메시지를 찾으셨네요! 관심과 정성에 박수를 드립니다. 👻-->
