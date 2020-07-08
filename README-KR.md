@@ -233,7 +233,7 @@ __Twitter__: [https://twitter.com/gbmKSquare](https://twitter.com/gbmKSquare)
 
 __Facebook__: [https://www.facebook.com/gbmksquare](https://www.facebook.com/gbmksquare)
 
-__Instagram__: [https://www.instagram.com/gbmksquare](
+__Instagram__: [https://www.instagram.com/gbmksquare](https://www.instagram.com/gbmksquare)
 
 
 
